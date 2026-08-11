@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MCronal.aternos.me:25160",
+    "ip": "MCronal.aternos.me",
     "port": 25160,
     "version": "",
     "try-creative": false
