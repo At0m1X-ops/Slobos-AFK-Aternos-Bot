@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "MCronal.aternos.me:25160",
+    "port": 25160,
     "version": "",
     "try-creative": false
   },
